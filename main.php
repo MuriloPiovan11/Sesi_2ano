@@ -1,4 +1,4 @@
 <?php
-$tab = "Olá Mundo!";
-echo $tab;
+$dev = "Olá Mundo!";
+echo $dev;
 ?>
